@@ -1,7 +1,6 @@
 
 # java-mongo
 
-
 ## Use Mongo driver
 
 1. Dependency Jar:
